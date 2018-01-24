@@ -15,7 +15,11 @@ describe('stroff', function () {
     0,
     '0',
     'unactivate',
-    'unactivated'
+    'unactivated',
+    'False',
+    'OFF',
+    'INACTIVE',
+    'DISABLE'
   ]
   
   const fakeVariables = [
@@ -23,6 +27,7 @@ describe('stroff', function () {
       'on',
       'true',
       'active',
+      'enable',
       1,
   ]
 
