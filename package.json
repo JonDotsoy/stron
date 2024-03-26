@@ -1,0 +1,8 @@
+{
+  "workspaces": [
+    "./packages/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "^1.0.10"
+  }
+}
